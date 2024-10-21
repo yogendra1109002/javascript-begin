@@ -7,7 +7,7 @@ var data = {
         father = {
 
             'name': 'Megh Singh',
-            Contact: ': 9879879879',
+            Contact: ': 9879555879',
             'ocupation': 'showroom',
             friends:["Uttam Singh","Govind Kadwa"]
 
